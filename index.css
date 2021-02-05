@@ -109,7 +109,7 @@ input {
 
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: rgb(59, 39, 34);
+  color: #4f4f4f;
   opacity: 1; /* Firefox */
 }
 
@@ -280,8 +280,6 @@ ul.todo li a {
 ul.todo li a:hover {
   color: #ccc;
 }
-
-
 
 /* later */
 
